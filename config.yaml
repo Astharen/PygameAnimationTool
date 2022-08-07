@@ -1,0 +1,11 @@
+fps: 60
+
+# This represents the window size we have in the game. It will rescale as if it was in the game
+window_x: 1500
+window_y: 750
+# animation_repetitions explanation
+# If the number is an integer, each frame will be repeated the number of times the number indicates.
+# If you want a personalised number of time each frame will be repeated, you must place a list [1, 2, ...] in which
+# each number represents the number of times this frame will be repeated. E.g.: frame1 2times and frame2 3 times then
+# [2, 3]
+animation_repetitions: 4
